@@ -1,0 +1,15 @@
+.Contact {
+
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   background: url("http://wallpapercraze.com/images/wallpapers/supersaiyanvageta-888194.jpeg");
+    background-size: cover;
+    box-shadow: 2px 22px 8px rgba(0, 0, 0, 0.5);
+    font-size: 2em;
+    color: deeppink;
+    text-shadow: 2px 2px 8px rgba(205, 205, 0, 0.91);;
+}
+
